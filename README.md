@@ -8,5 +8,7 @@ From Taipei to Helsinki and from Rio de Janeiro to San Francisco, the original v
 
 # Terms of use
 
-The Growroom is licensed under [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode), which means that the design can be shared, copied and build upon without asking permission. The only condition is that you credit the original work to SPACE10 and architects Mads-Ulrik Husum and Sine Lindholm, throw in a link and indicate if any changes have been made.
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
+The Growroom is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), which means that the design can be shared, copied and build upon without asking permission. The only condition is that you credit the original work to SPACE10 and architects Mads-Ulrik Husum and Sine Lindholm, throw in a link and indicate if any changes have been made.
 Good luck!
