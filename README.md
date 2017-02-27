@@ -6,6 +6,12 @@ SPACE10 envision a future, where we grow our own food much more locally. To spar
 
 From Taipei to Helsinki and from Rio de Janeiro to San Francisco, the original version of The Growroom sparked interest and people requested to either buy or exhibit The Growroom. But it doesn’t make sense to promote local food production and then start shipping it across oceans and continents. That is why we now release The Growroom as open source design and encourage people to build their own locally as a way to bring new opportunities to life.
 
+# Download
+
+To download the drawings and manual, press the green "Clone or download" button in the top right, or press the shortcut below.
+
+[Download The Growroom](https://github.com/space10-community/the-growroom/archive/master.zip)
+
 # Terms of use
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
